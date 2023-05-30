@@ -1,0 +1,63 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Senkadagala</title>
+    <link rel="stylesheet" type="text/css" href="~/css/bootstrap.min.css">
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,100,400italic,500,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="~/css/main.css">
+
+
+    <script type="text/javascript" src="~/js/jquery.js"></script>
+    <script type="text/javascript" src="~/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="~/js/singlepagenav.js"></script>
+    <script type="text/javascript" src="~/js/queryloader.js"></script>
+    <script type="text/javascript" src="~/js/main.js"></script>
+
+    <meta charset="UTF-8">
+    <meta name="description" content="Senkadagala - a simple HTML template">
+    <meta name="keywords" content="web design, web development, branding, Social media marketing, print media design, digital design, HTML,CSS,XML,JavaScript">
+    <meta name="author" content="PixelMock">
+
+    <link rel="icon" type="image/png" href="~/img/fav.png" />
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top top-nav" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">
+                    <img src="~/img/pm-brand.png" title="PixelMock Logo">
+                </a>
+            </div>
+            <div class="collapse navbar-collapse ">
+                <ul class="nav navbar-nav">
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#work">Work</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    @if(User.Identity.IsAuthenticated){
+                        <li class="p-3 text-dark">@User.Identity.Name</li>
+                        <li><form method="post" asp-action="LogOut" asp-controller="Account"><button class="btn btn-danger">Log Out </button></form></li>
+                    }
+                    else{
+
+                    <li><form method="get" asp-action="Register" asp-controller="Account"><button class="btn btn-primary">Register</button></form></li>
+                    <li><form method="get" asp-action="Login" asp-controller="Account"><button class="btn btn-primary">Login</button></form></li>
+                    }
+                </ul>
+            </div><!--/.nav-collapse -->
+        </div>
+    </div>
+            @RenderBody()
+       
+     @await Component.InvokeAsync("Footer")
+    </div>
+</body>
+</html>
