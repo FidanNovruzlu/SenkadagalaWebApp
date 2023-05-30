@@ -185,8 +185,8 @@
             @for(int i=1; i<=Model.TotalPage;i++){
 
                 <li class="page-item @(i== Model.CurrentPage ?"disabled" : "") ">
-                <a class="page-link" asp-route-page="@i" tabindex="-1">@i</a>
-            </li>
+                    <a class="page-link" asp-route-page="@i" tabindex="-1">@i</a>
+                </li>
             }
         </ul>
     </nav>

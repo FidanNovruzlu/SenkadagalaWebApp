@@ -61,12 +61,13 @@ public class ServiceController : Controller
         }
         string newFilename = await createServiceVM.Image.UplaodAsync(_webHostEnvironment.WebRootPath, "img" );
       
-        Service service = new Service()
+        Service service = new ()
         {
             Description=createServiceVM.Description,
             JobId=createServiceVM.JobId,
             ImageName=newFilename
         };
+
         _senkaDbContext.Services.Add(service);
         _senkaDbContext.SaveChanges();
         return RedirectToAction(nameof(Index));
@@ -82,6 +83,7 @@ public class ServiceController : Controller
             JobId=service.JobId,
             Jobs=_senkaDbContext.Jobs.ToList(),
             ImageName=service.ImageName
+         
         };
         return View(updateServiceVM);
     }
@@ -103,6 +105,7 @@ public class ServiceController : Controller
             updateServiceVM.Jobs = _senkaDbContext.Jobs.ToList();
             return View(updateServiceVM);
         }
+
         if(updateServiceVM.Image != null)
         {
             string path = Path.Combine(_webHostEnvironment.WebRootPath, "img", service.ImageName);

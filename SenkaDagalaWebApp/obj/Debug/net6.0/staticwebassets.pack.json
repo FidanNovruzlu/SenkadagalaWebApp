@@ -1,0 +1,1501 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SenkaDagalaWebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SenkaDagalaWebApp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\css\\material-dashboard.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\material-dashboard.css"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\css\\material-dashboard.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\material-dashboard.css.map"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\css\\material-dashboard.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\material-dashboard.min.css"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\nucleo.eot"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\nucleo.woff"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\bg-pricing.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\bg-pricing.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\bg-smart-home-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\bg-smart-home-1.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\bg-smart-home-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\bg-smart-home-2.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\bruce-mars.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\down-arrow-white.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\down-arrow.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\drake.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\drake.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\home-decor-1.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\home-decor-2.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\home-decor-3.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\icons\\flags\\AU.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\flags\\AU.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\icons\\flags\\BR.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\flags\\BR.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\icons\\flags\\DE.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\flags\\DE.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\icons\\flags\\GB.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\flags\\GB.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\icons\\flags\\US.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\flags\\US.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\illustrations\\chat.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\chat.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\illustrations\\danger-chat-ill.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\danger-chat-ill.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\illustrations\\dark-lock-ill.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\dark-lock-ill.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\illustrations\\error-404.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\error-404.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\illustrations\\error-500.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\error-500.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\illustrations\\illustration-lock.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\illustration-lock.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\illustrations\\illustration-reset.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\illustration-reset.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\illustrations\\illustration-signin.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\illustration-signin.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\illustrations\\illustration-signup.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\illustration-signup.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\illustrations\\illustration-verification.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\illustration-verification.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\illustrations\\lock.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\lock.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\illustrations\\pattern-tree.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\pattern-tree.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\ivana-square.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\ivana-squares.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\ivana-squares.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\ivancik.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\ivancik.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\kal-visuals-square.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logo-ct-dark.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logo-ct.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\logos\\gray-logos\\logo-coinbase.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logos\\gray-logos\\logo-coinbase.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\logos\\gray-logos\\logo-nasa.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logos\\gray-logos\\logo-nasa.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\logos\\gray-logos\\logo-netflix.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logos\\gray-logos\\logo-netflix.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\logos\\gray-logos\\logo-pinterest.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logos\\gray-logos\\logo-pinterest.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\logos\\gray-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logos\\gray-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\logos\\gray-logos\\logo-vodafone.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logos\\gray-logos\\logo-vodafone.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logos\\mastercard.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logos\\visa.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\marie.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\marie.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\meeting.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\meeting.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\office-dark.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\office-dark.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\product-12.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\product-12.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\products\\product-1-min.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-1-min.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\products\\product-11.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\products\\product-2-min.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-2-min.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\products\\product-3-min.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-3-min.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\products\\product-4-min.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-4-min.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\products\\product-5-min.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-5-min.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\products\\product-6-min.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-6-min.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\products\\product-7-min.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-7-min.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\products\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-details-1.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\products\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-details-2.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\products\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-details-3.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\products\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-details-4.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\products\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-details-5.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\shapes\\pattern-lines.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\shapes\\pattern-lines.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\small-logos\\bootstrap.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\bootstrap.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\small-logos\\creative-tim.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\creative-tim.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\small-logos\\devto.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\devto.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\small-logos\\github.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\github.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\small-logos\\google-webdev.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\google-webdev.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\small-logos\\icon-bulb.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\icon-bulb.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\small-logos\\logo-asana.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\logo-asana.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\team-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\team-5.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\tesla-model-s.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\tesla-model-s.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\img\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\vr-bg.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\core\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\js\\material-dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\material-dashboard.js"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\js\\material-dashboard.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\material-dashboard.js.map"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\js\\material-dashboard.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\material-dashboard.min.js"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugins\\Chart.extension.js"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\js\\plugins\\world.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugins\\world.js"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_accordion.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_alert.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_alert.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_avatars.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_avatars.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_backgrounds.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_backgrounds.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_badge.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_cards-extend.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_components.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_components.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_dark-version.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_dropdown-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_dropdown-extend.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_dropup.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_dropup.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_floating-elements.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_floating-elements.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_footer.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_footer.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_forms.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_gradients.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_header.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_header.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_icons.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_info-areas.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_list-check.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_list-check.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_misc-extend.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_nav.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_nav.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_popovers.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_progress.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_progress.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_ripple.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_ripple.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_rtl-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_rtl-extend.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_rtl.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_rtl.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_tilt.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_tilt.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_timeline.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_utilities-extend.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\badges\\_badge-circle.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\badges\\_badge-circle.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\badges\\_badge-dot.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\badges\\_badge-dot.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\badges\\_badge-floating.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\badges\\_badge-floating.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\badges\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\badges\\_badge.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\cards\\card-background.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\cards\\card-background.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\cards\\card-blog.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\cards\\card-blog.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\cards\\card-horizontal.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\cards\\card-horizontal.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\cards\\card-pricing.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\cards\\card-pricing.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\cards\\card-profile.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\cards\\card-profile.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\cards\\card-rotate.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\cards\\card-rotate.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\custom\\_styles.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\custom\\_styles.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\custom\\_variables.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\forms\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\forms\\_form-switch.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\forms\\_forms.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\forms\\_inputs.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\forms\\_inputs.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\mixins\\_colored-shadows.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\mixins\\_colored-shadows.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\mixins\\_vendor.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\mixins\\_vendor.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\mixins\\mixins.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\mixins\\mixins.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\free\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\free\\_flatpickr.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\free\\_nouislider.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\free\\_nouislider.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\free\\_prism.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\free\\_prism.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\free\\plugins.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\free\\plugins.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_carousel-slick.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_carousel-slick.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_choices.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_choices.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_datatable-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_datatable-extend.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_datatable.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_datatable.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_dragula.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_dragula.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_dropzone.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_dropzone.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_fullcalendar-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_fullcalendar-extend.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_fullcalendar.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_fullcalendar.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_glidejs.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_glidejs.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_highlight.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_highlight.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_kanban.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_kanban.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_leaflet.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_leaflet.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_list-check.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_list-check.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_photoswipe.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_photoswipe.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_quill.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_quill.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_rating-widget.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_rating-widget.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_sweetalert2-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_sweetalert2-extend.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_sweetalert2.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_sweetalert2.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_vector-map.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_vector-map.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\multi-step.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\multi-step.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\plugins-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\plugins-extend.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\theme-pro.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\theme-pro.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\theme.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\theme.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_animations.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_animations.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_avatars.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_avatars.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_badge.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_cards-extend.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_cards.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_choices.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_choices.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_dark-version.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_dropdowns.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_form-switch.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_full-calendar.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_full-calendar.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_header.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_header.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_info-areas.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_misc-extend.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_misc.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_ripple.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_ripple.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_rtl.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_rtl.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_table.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_table.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_timeline.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_utilities-extend.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_virtual-reality.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_virtual-reality.scss"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\docs\\documentation.html",
+      "PackagePath": "staticwebassets\\admin\\docs\\documentation.html"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\pages\\billing.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\billing.html"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\pages\\dashboard.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\dashboard.html"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\pages\\notifications.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\notifications.html"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\pages\\profile.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\profile.html"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\pages\\rtl.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\rtl.html"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\pages\\sign-in.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\sign-in.html"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\pages\\sign-up.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\sign-up.html"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\pages\\tables.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\tables.html"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\admin\\pages\\virtual-reality.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\virtual-reality.html"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\0c89fdc3-d520-4be0-aa14-80c7a2613b63branding.png",
+      "PackagePath": "staticwebassets\\img\\0c89fdc3-d520-4be0-aa14-80c7a2613b63branding.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\195df2c1-e7ca-4235-b6d0-ddd9ac8810e8doctors-2.jpg",
+      "PackagePath": "staticwebassets\\img\\195df2c1-e7ca-4235-b6d0-ddd9ac8810e8doctors-2.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\6667271d-19ed-4dc6-bfa4-470ae0e92030web-design.png",
+      "PackagePath": "staticwebassets\\img\\6667271d-19ed-4dc6-bfa4-470ae0e92030web-design.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\71b67cfe-af0c-42a9-a051-b901b9ebd1f8web-dev.png",
+      "PackagePath": "staticwebassets\\img\\71b67cfe-af0c-42a9-a051-b901b9ebd1f8web-dev.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\81d3f993-7011-4307-a186-045522853c2dbranding.png",
+      "PackagePath": "staticwebassets\\img\\81d3f993-7011-4307-a186-045522853c2dbranding.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\96dd1ab1-ac05-4ee1-a155-f62efd47eeb6web-dev.png",
+      "PackagePath": "staticwebassets\\img\\96dd1ab1-ac05-4ee1-a155-f62efd47eeb6web-dev.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\aad6d3b0-ecae-4c8a-9fdb-47728a96d7acweb-dev.png",
+      "PackagePath": "staticwebassets\\img\\aad6d3b0-ecae-4c8a-9fdb-47728a96d7acweb-dev.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\b5948e05-39bf-44f5-be15-52e3e4e470edweb-dev.png",
+      "PackagePath": "staticwebassets\\img\\b5948e05-39bf-44f5-be15-52e3e4e470edweb-dev.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\big-mac.jpg",
+      "PackagePath": "staticwebassets\\img\\big-mac.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\branding.png",
+      "PackagePath": "staticwebassets\\img\\branding.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\fav.png",
+      "PackagePath": "staticwebassets\\img\\fav.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\footer-bg.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\logo-big-NEW.png",
+      "PackagePath": "staticwebassets\\img\\logo-big-NEW.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\pm-brand.png",
+      "PackagePath": "staticwebassets\\img\\pm-brand.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\portfolio\\logo\\1tl\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\logo\\1tl\\1.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\portfolio\\logo\\chocodiles\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\logo\\chocodiles\\1.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\portfolio\\print\\blackwelling\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\print\\blackwelling\\1.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\portfolio\\web\\sajath\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\web\\sajath\\1.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\portfolio\\web\\sajath\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\web\\sajath\\2.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\portfolio\\web\\sankalana\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\web\\sankalana\\1.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\portfolio\\web\\udara\\1.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\web\\udara\\1.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\portfolio\\web\\whoor\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\web\\whoor\\1.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\print.png",
+      "PackagePath": "staticwebassets\\img\\print.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\sm-sprite.png",
+      "PackagePath": "staticwebassets\\img\\sm-sprite.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\team\\user1.png",
+      "PackagePath": "staticwebassets\\img\\team\\user1.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\team\\user2.png",
+      "PackagePath": "staticwebassets\\img\\team\\user2.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\team\\user3.png",
+      "PackagePath": "staticwebassets\\img\\team\\user3.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\web-design.png",
+      "PackagePath": "staticwebassets\\img\\web-design.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\web-dev.png",
+      "PackagePath": "staticwebassets\\img\\web-dev.png"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\workspace-main.jpg",
+      "PackagePath": "staticwebassets\\img\\workspace-main.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\img\\workspace-sub.jpg",
+      "PackagePath": "staticwebassets\\img\\workspace-sub.jpg"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\js\\queryloader.js",
+      "PackagePath": "staticwebassets\\js\\queryloader.js"
+    },
+    {
+      "Id": "D:\\desktop\\programs\\C#\\ASP.NET Core MVC\\SenkadagalaWebApp\\SenkaDagalaWebApp\\wwwroot\\js\\singlepagenav.js",
+      "PackagePath": "staticwebassets\\js\\singlepagenav.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SenkaDagalaWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SenkaDagalaWebApp.props",
+      "PackagePath": "build\\SenkaDagalaWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SenkaDagalaWebApp.props",
+      "PackagePath": "buildMultiTargeting\\SenkaDagalaWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SenkaDagalaWebApp.props",
+      "PackagePath": "buildTransitive\\SenkaDagalaWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

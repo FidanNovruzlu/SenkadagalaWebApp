@@ -26,14 +26,13 @@ public class AccountController:Controller
     [ValidateAntiForgeryToken]
     public async Task<IActionResult> Register(RegisterVM registerVM)
     {
-        if(!ModelState.IsValid) return View(registerVM);
-         AppUser user= new AppUser()
+         if(!ModelState.IsValid) return View(registerVM);
+         AppUser user= new ()
          {
              UserName = registerVM.UserName,
              Name=registerVM.Name,
-             Email = registerVM.Email,
              Surname = registerVM.Surname,
-
+             Email = registerVM.Email
          };
 
         IdentityResult identityResult =await _userManager.CreateAsync(user, registerVM.Password);
@@ -124,11 +123,16 @@ public class AccountController:Controller
     #region Create Role
     //public async Task<IActionResult> CreateRole()
     //{
-    //    IdentityRole role=new IdentityRole("Admin");
+    //    IdentityRole role = new IdentityRole("Admin");
     //    if (role == null) return NotFound();
 
     //    await _roleManager.CreateAsync(role);
     //    return Json("OK");
     //}
     #endregion
+
+    public IActionResult ForgotPassword()
+    {
+        return View();
+    }
 }

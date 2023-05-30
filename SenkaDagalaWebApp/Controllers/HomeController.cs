@@ -5,26 +5,23 @@ using SenkaDagalaWebApp.Models;
 using SenkaDagalaWebApp.ViewModels;
 using System.Diagnostics;
 
-namespace SenkaDagalaWebApp.Controllers
+namespace SenkaDagalaWebApp.Controllers;
+public class HomeController : Controller
 {
-    public class HomeController : Controller
+    private readonly SenkaDbContext _senkaDbContext;
+
+    public HomeController(SenkaDbContext senkaDbContext)
     {
-        private readonly SenkaDbContext _senkaDbContext;
+       _senkaDbContext = senkaDbContext;
+    }
 
-        public HomeController(SenkaDbContext senkaDbContext)
+    public IActionResult Index()
+    {
+        List<Service> services = _senkaDbContext.Services.Take(4).Include(j=>j.Job).ToList();
+        HomeVM homeVM = new HomeVM()
         {
-           _senkaDbContext = senkaDbContext;
-        }
-
-        public IActionResult Index()
-        {
-            List<Service> services = _senkaDbContext.Services.Take(4).Include(j=>j.Job).ToList();
-            HomeVM homeVM = new HomeVM()
-            {
-                Services=services
-            };
-            return View(homeVM);
-        }
-
+            Services=services
+        };
+        return View(homeVM);
     }
 }
